@@ -159,4 +159,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-05T06:20:09.420Z,18.3295,-67.1431666666667,16.12,2.9,md,14,95,,0.25,pr,pr71352468,2022-06-05T07:19:53.640Z,"4 km N of Las Marias, Puerto Rico",earthquake,0.55,0.64,0.211586705891827,5,reviewed,pr,pr
 2022-06-05T06:16:31.925Z,35.08594131,-95.53355408,0.7708126903,1.7,ml,10,134.9989777,0.1273282468,0.3331903015,ok,ok2022kxrk,2022-06-05T06:22:04.434Z,"13 km ESE of Crowder, Oklahoma",earthquake,4.713960201,3.36594496,,7,automatic,ok,ok
 2022-06-05T06:12:23.365Z,-31.869,-68.8996,10,4.5,mb,,98,0.371,0.99,us,us7000hf3y,2022-06-05T07:10:37.040Z,"36 km SW of Pocito, Argentina",earthquake,5,1.9,0.171,13,reviewed,us,us
-2022-06-05T06:01:21.073Z,35.09327698,-95.52423096,5,2.34,ml,32,88.05103683,0.1175667495,0.6242761536,ok,ok2022kxqx,2022-06-05T06:05:40.984Z,"13 km ESE of Crowder, Oklahoma",earthquake,2.929845285,,,24,automatic,ok,ok
