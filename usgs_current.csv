@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-07-14T14:14:17.890Z,32.6473333,-115.7288333,7.39,2,ml,27,116,0.002872,0.22,ci,ci40303696,2022-07-14T14:25:00.400Z,"16km WNW of Progreso, B.C., MX",earthquake,0.48,0.72,0.208,27,automatic,ci,ci
-2022-07-14T14:09:38.230Z,38.8408318,-122.8249969,1.68,0.37,md,10,96,0.008493,0.02,nc,nc73758566,2022-07-14T14:21:10.948Z,"9km WNW of Cobb, CA",earthquake,0.39,0.87,,1,automatic,nc,nc
+2022-07-14T14:09:38.230Z,38.8408318,-122.8249969,1.68,0.37,md,10,96,0.008493,0.02,nc,nc73758566,2022-07-14T14:34:15.031Z,"9km WNW of Cobb, CA",earthquake,0.39,0.87,,1,automatic,nc,nc
 2022-07-14T14:08:57.940Z,19.1774997711182,-155.471496582031,29.1599998474121,1.96000004,md,28,98,,0.119999997,hv,hv73075127,2022-07-14T14:12:16.980Z,"2 km SSE of Pāhala, Hawaii",earthquake,0.69,0.99000001,0.0199999996,5,automatic,hv,hv
 2022-07-14T13:46:54.280Z,34.2926667,-116.9378333,3.25,1.06,ml,27,78,0.03343,0.22,ci,ci40303680,2022-07-14T13:50:32.846Z,"6km NNW of Big Bear Lake, CA",earthquake,0.44,0.59,0.228,26,automatic,ci,ci
 2022-07-14T13:39:01.090Z,33.2456667,-116.1068333,4.18,0.93,ml,22,55,0.1033,0.21,ci,ci40303672,2022-07-14T13:42:34.790Z,"12km NNE of Ocotillo Wells, CA",earthquake,0.34,1.19,0.127,17,automatic,ci,ci
@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-14T09:19:48.620Z,35.527832,-120.7409973,0.41,1.21,md,7,144,0.1378,0.09,nc,nc73758526,2022-07-14T10:12:11.388Z,"4km SW of Templeton, CA",earthquake,0.74,6.58,0.01,6,automatic,nc,nc
 2022-07-14T09:15:05.500Z,32.6393333,-115.7306667,7.89,1.61,ml,18,72,0.0106,0.21,ci,ci40303576,2022-07-14T09:18:47.159Z,"15km WNW of Progreso, B.C., MX",earthquake,0.6,1.15,0.271,21,automatic,ci,ci
 2022-07-14T09:11:30.380Z,33.4491667,-116.6356667,7.38,0.28,ml,18,87,0.04968,0.15,ci,ci40303568,2022-07-14T09:15:03.118Z,"12km SSE of Anza, CA",earthquake,0.35,0.59,0.052,4,automatic,ci,ci
-2022-07-14T09:10:19.420Z,37.3251648,-122.2046661,8.37,1.81,md,20,65,0.03714,0.13,nc,nc73758521,2022-07-14T11:29:08.597Z,"7km SSE of Portola Valley, CA",earthquake,0.37,0.56,0.05,15,automatic,nc,nc
+2022-07-14T09:10:19.350Z,37.323,-122.2018333,9.08,1.76,md,45,58,0.03858,0.12,nc,nc73758521,2022-07-14T14:37:49.572Z,"7km SSE of Portola Valley, CA",earthquake,0.18,0.29,0.154,39,reviewed,nc,nc
 2022-07-14T08:51:14.630Z,17.9478333333333,-66.8038333333333,11.81,2.19,md,12,219,,0.22,pr,pr71359423,2022-07-14T09:41:33.430Z,"Puerto Rico region",earthquake,0.8,0.68,0.229488197605658,11,reviewed,pr,pr
 2022-07-14T08:51:08.755Z,60.1609,-153.0876,113,1.1,ml,,,,0.23,ak,ak0228ymv3bv,2022-07-14T08:52:18.746Z,"68 km E of Port Alsworth, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-07-14T08:50:16.620Z,33.322,-116.3188333,11.81,0.69,ml,19,136,0.041,0.2,ci,ci40303560,2022-07-14T08:53:47.755Z,"9km NE of Borrego Springs, CA",earthquake,0.47,0.77,0.144,11,automatic,ci,ci
@@ -80,7 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-14T05:02:53.930Z,39.4231667,-110.2835,-3.39,1.83,ml,12,203,0.03224,0.13,uu,uu60505697,2022-07-14T14:08:39.440Z,"16 km SSE of Sunnyside, Utah",earthquake,0.94,2.07,0.124,6,reviewed,uu,uu
 2022-07-14T05:00:28.260Z,36.0363333,-120.601,3.07,0.99,md,29,66,0.03264,0.07,nc,nc73758471,2022-07-14T14:30:09.996Z,"22km NW of Parkfield, CA",earthquake,0.27,0.54,0.306,8,reviewed,nc,nc
 2022-07-14T04:59:26.860Z,36.037,-120.6006667,2.67,0.45,md,17,111,0.03195,0.07,nc,nc73758466,2022-07-14T14:26:09.969Z,"22km NW of Parkfield, CA",earthquake,0.35,0.93,0.28,9,reviewed,nc,nc
-2022-07-14T04:58:59.510Z,36.0386667,-120.6003333,3.62,1.15,md,24,113,0.03026,0.06,nc,nc73758456,2022-07-14T14:24:14.960Z,"22km NW of Parkfield, CA",earthquake,0.25,0.45,0.188,14,reviewed,nc,nc
+2022-07-14T04:58:59.510Z,36.0386667,-120.6003333,3.62,1.15,md,24,113,0.03026,0.06,nc,nc73758456,2022-07-14T14:37:10.056Z,"22km NW of Parkfield, CA",earthquake,0.25,0.45,0.188,14,reviewed,nc,nc
 2022-07-14T04:58:49.180Z,38.8223343,-122.8423309,2.03,0.37,md,17,72,0.005756,0.01,nc,nc73758451,2022-07-14T05:15:13.456Z,"9km NW of The Geysers, CA",earthquake,0.24,0.46,0.22,3,automatic,nc,nc
 2022-07-14T04:46:29.760Z,18.682,-66.6696666666667,65.69,2.96,md,36,229,,0.25,pr,pr71359353,2022-07-14T05:12:56.538Z,"23 km NNE of Arecibo, Puerto Rico",earthquake,0.76,0.84,0.0489282268383495,14,reviewed,pr,pr
 2022-07-14T04:41:00.060Z,19.2971668243408,-154.983840942383,42.689998626709,2.18000007,md,29,224,,0.270000011,hv,hv73074822,2022-07-14T04:44:18.040Z,"20 km SSW of Leilani Estates, Hawaii",earthquake,2.03,0.939999998,1.09000003,3,automatic,hv,hv
@@ -129,7 +129,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-14T01:02:24.090Z,62.9646,-150.379,85.8,1.2,ml,,,,0.39,ak,ak0228yiel6x,2022-07-14T01:04:20.677Z,"55 km NNE of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-07-14T01:01:23.311Z,66.3601,-153.4765,0,1.9,ml,,,,0.58,ak,ak0228yiedez,2022-07-14T01:03:42.456Z,"40 km WSW of Alatna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-14T00:42:05.380Z,37.4925,-118.5395,2.85,1.09,md,18,70,0.09444,0.08,nc,nc73758406,2022-07-14T04:21:13.149Z,"10km NNE of Round Valley, CA",earthquake,0.34,1.62,0.136,15,reviewed,nc,nc
-2022-07-14T00:34:12.130Z,33.3223333,-116.3253333,11.57,0.63,ml,14,137,0.09397,0.25,ci,ci40303320,2022-07-14T00:37:47.161Z,"9km NNE of Borrego Springs, CA",earthquake,0.81,1.78,0.117,12,automatic,ci,ci
+2022-07-14T00:34:12.210Z,33.3296667,-116.3185,9.98,0.67,ml,20,129,0.04083,0.15,ci,ci40303320,2022-07-14T14:34:31.201Z,"10km NNE of Borrego Springs, CA",earthquake,0.33,0.71,0.148,9,reviewed,ci,ci
 2022-07-14T00:33:53.099Z,62.9095,-149.8782,66.9,1.1,ml,,,,0.45,ak,ak0228yhzv0t,2022-07-14T00:35:59.148Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-07-14T00:33:15.043Z,27.6373,55.8899,10,4.2,mb,43,119,2.695,0.66,us,us6000i298,2022-07-14T00:45:28.040Z,"63 km NW of Bandar Abbas, Iran",earthquake,9.5,1.9,0.1,28,reviewed,us,us
 2022-07-14T00:29:51.360Z,39.4343333,-110.2951667,-3.02,1.83,ml,13,198,0.02534,0.17,uu,uu60505627,2022-07-14T14:24:39.780Z,"15 km SSE of Sunnyside, Utah",earthquake,1.07,2.06,0.143,6,reviewed,uu,uu
