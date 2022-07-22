@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-22T23:51:42.025Z,62.6263,-143.3255,0.1,2.4,ml,,,,1,ak,ak0229c43fx6,2022-07-22T23:53:39.275Z,"32 km NNW of Nabesna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-22T23:35:59.255Z,59.6534,-153.4095,118.6,1.2,ml,,,,0.23,ak,ak0229c401sl,2022-07-22T23:41:45.496Z,"41 km ESE of Pedro Bay, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-07-22T23:28:37.920Z,38.8213348,-122.81633,4.94,0.35,md,10,61,0.005302,0.06,nc,nc73761756,2022-07-22T23:37:11.401Z,"7km NW of The Geysers, CA",earthquake,0.79,1.1,,1,automatic,nc,nc
 2022-07-22T23:24:36.680Z,33.2915,-116.2663333,2.14,0.94,ml,36,66,0.07942,0.26,ci,ci40068135,2022-07-22T23:28:09.610Z,"11km ENE of Borrego Springs, CA",earthquake,0.36,0.52,0.107,19,automatic,ci,ci
 2022-07-22T23:23:34.980Z,38.8269997,-122.8146667,2.38,0.85,md,11,72,0.005082,0.02,nc,nc73761751,2022-07-22T23:32:10.372Z,"8km NW of The Geysers, CA",earthquake,0.41,1.08,,1,automatic,nc,nc
-2022-07-22T23:23:05.870Z,38.8260002,-122.8119965,2.05,2.2,md,38,38,0.003004,0.05,nc,nc73761746,2022-07-22T23:29:12.354Z,"7km NW of The Geysers, CA",earthquake,0.17,0.28,0.06,15,automatic,nc,nc
+2022-07-22T23:23:05.870Z,38.8260002,-122.8119965,2.05,2.2,md,38,38,0.003004,0.05,nc,nc73761746,2022-07-22T23:49:18.464Z,"7km NW of The Geysers, CA",earthquake,0.17,0.28,0.06,15,automatic,nc,nc
 2022-07-22T23:22:38.610Z,19.1973323822021,-155.386337280273,32.6500015258789,1.91999996,md,34,161,,0.129999995,hv,hv73084702,2022-07-22T23:25:57.780Z,"9 km E of Pāhala, Hawaii",earthquake,0.71,1.17999995,1.91999996,4,automatic,hv,hv
 2022-07-22T23:18:04.730Z,33.8671684,-117.5013351,1.67,1.23,ml,18,61,0.06825,0.14,ci,ci40068127,2022-07-22T23:26:42.705Z,"2km SE of Home Gardens, CA",earthquake,0.31,0.59,0.305,4,automatic,ci,ci
 2022-07-22T23:07:53.160Z,34.0155,-117.2178333,14.92,0.74,ml,17,90,0.1328,0.29,ci,ci40068119,2022-07-22T23:11:29.372Z,"5km SE of Loma Linda, CA",earthquake,0.61,1.5,0.17,15,automatic,ci,ci
@@ -205,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-22T00:14:54.070Z,36.1908333,-117.8135,8.9,1.11,ml,23,64,0.0804,0.13,ci,ci40067567,2022-07-22T16:17:21.952Z,"20km ESE of Olancha, CA",earthquake,0.23,0.31,0.221,5,reviewed,ci,ci
 2022-07-22T00:11:28.750Z,36.189,-117.8156667,6.86,3.1,ml,52,35,0.07801,0.18,ci,ci40067559,2022-07-22T16:12:18.500Z,"20km ESE of Olancha, CA",earthquake,0.16,0.42,0.191,22,reviewed,ci,ci
 2022-07-21T23:59:35.729Z,62.9097,-148.3532,4.8,1.6,ml,,,,0.87,ak,ak0229aglso4,2022-07-22T00:01:55.741Z,"61 km SSE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-07-21T23:51:08.990Z,19.1728324890137,-155.492340087891,31.7700004577637,2.13000011,md,39,92,,0.119999997,hv,hv73083792,2022-07-22T00:05:36.719Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.65,1.09000003,0.879999995,16,automatic,hv,hv
